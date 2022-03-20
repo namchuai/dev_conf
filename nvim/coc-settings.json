@@ -1,0 +1,19 @@
+{
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 80,
+  "diagnostic.errorSign": "✖",
+  "diagnostic.warningSign": "⚑",
+  "diagnostic.infoSign": "⚑",
+  "diagnostic.hintSign": "⚑",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "dart",
+    "css",
+    "html",
+    "javascript",
+    "javascript.jsx",
+    "json",
+    "typescript",
+    "typescriptreact"
+  ],
+  "tsserver.formatOnType": false
+}
